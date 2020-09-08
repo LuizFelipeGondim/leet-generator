@@ -1,9 +1,6 @@
 <?php
 
-    $setValues = [
-        'a' => 'S',
-        'b' => 'f'
-    ];
+    require 'values.php';
 
     $string = "A vizinha gosta de chá com biscoito";
 
